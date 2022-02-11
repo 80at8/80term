@@ -1,2 +1,2 @@
 # 80term
-My small terminal graphics primitive library
+My small terminal program for password management
